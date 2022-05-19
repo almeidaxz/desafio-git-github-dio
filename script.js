@@ -1,0 +1,1 @@
+alert("Esta é uma página teste.");
